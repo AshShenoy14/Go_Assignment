@@ -1,4 +1,5 @@
 # Appointment Booking and Management System
+Golang Project
 
 A simple microservices-based appointment booking system built with Go. This project demonstrates microservices architecture for a college assignment.
 
